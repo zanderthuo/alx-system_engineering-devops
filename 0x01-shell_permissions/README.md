@@ -18,3 +18,4 @@ Other users: all the permissions
 
 11. chmod --reference=olleh hello - script that sets the mode of the file hello the same as olleh’s mode.
 12. chmod a+X * - script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+13. mkdir -m 751 my_dir - script that creates a directory called my_dir with permissions 751 in the working directory

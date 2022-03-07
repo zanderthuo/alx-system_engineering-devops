@@ -6,3 +6,5 @@
 5. tail /etc/passwd - Display the last 10 lines of /etc/passwd
 6. head /etc/passwd - Display the first 10 lines of /etc/passwd
 7. head -3 iacta | tail -1 - Script that displays the third line of the file iacta.
+8. echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" - A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a ne
+

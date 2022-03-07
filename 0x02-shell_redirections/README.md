@@ -3,3 +3,4 @@
 2. echo "\"(Ôo)'" - A script that displays a confused smiley "(Ôo)'
 3. cat /etc/passwd - Script to display the content of the /etc/passwd file
 4. cat /etc/passwd /etc/hosts - Display the content of /etc/passwd and /etc/hosts
+5. tail /etc/passwd - Display the last 10 lines of /etc/passwd

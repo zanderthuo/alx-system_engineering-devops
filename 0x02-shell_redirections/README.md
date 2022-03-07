@@ -13,4 +13,5 @@
 12.find . -type d ! -path . -print | wc -l - script that counts the number of directories and sub-directories in the current directory.
 13. ls -1t | head -10 - a script that displays the 10 newest files in the current directory.
 14. sort | uniq -u - Script that displays all users and their home directories, sorted by users.
-15. grep "root" /etc/passwd - Display lines containing the pattern “root” from the file /etc/passwd.
+15. grep "root" /etc/passwd - Display lines containing the pattern “root” from the file /etc/passwd
+16. grep -c "bin" /etc/passwd - Display the number of lines that contain the pattern “bin” in the file /etc/passwd

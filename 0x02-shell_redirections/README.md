@@ -15,3 +15,5 @@
 14. sort | uniq -u - Script that displays all users and their home directories, sorted by users.
 15. grep "root" /etc/passwd - Display lines containing the pattern “root” from the file /etc/passwd
 16. grep -c "bin" /etc/passwd - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+17. grep -A 3 "root" /etc/passwd - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+18. grep -v "bin" /etc/passwd - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.`

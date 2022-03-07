@@ -12,3 +12,4 @@
 11. find -name "*.js" -type f -delete - Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 12.find . -type d ! -path . -print | wc -l - script that counts the number of directories and sub-directories in the current directory.
 13. ls -1t | head -10 - a script that displays the 10 newest files in the current directory.
+14. sort | uniq -u - Script that displays all users and their home directories, sorted by users.

@@ -12,4 +12,5 @@
 
 	Name: BEST
 	Value: School
-7. Script that creates a new global variable
+7. Script that creates a new global variable.
+8. Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
